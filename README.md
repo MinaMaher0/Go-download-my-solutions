@@ -15,7 +15,7 @@ GoLang script for download all of your Codeforces accepted solutions
     ```
     go run main.go
     ```
-- solutions folder should be created and have all your solutions
+- solutions folder should be created and contains all your solutions
 
 ### Todos
 
